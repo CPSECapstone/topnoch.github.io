@@ -10,13 +10,11 @@ Welcome to NOCH! This guide walks you through installing and getting started wit
 |----------|--------|--------|
 | Android 10+ | ✅ Recommended | Signed APK |
 | iOS | ✅ Available | TestFlight |
-| Web | ✅ Available | Browser (deployed build) |
 
 ## Minimum Requirements
 
 - 3 GB RAM or higher
 - Stable internet connection
-- Camera and photo access for media features
 - Location enabled for nearby restaurant discovery
 
 ---
@@ -30,16 +28,11 @@ Welcome to NOCH! This guide walks you through installing and getting started wit
 3. Open the downloaded APK and complete the installation.
 4. Launch **NOCH** and verify the build version in Settings.
 
-### iOS (TestFlight)
+### iOS (TestFlight) (NOT COMPLETE)
 
 1. Install [TestFlight](https://apps.apple.com/app/testflight/id899247664) from the App Store.
 2. Open the invitation link sent to your email and accept the build.
 3. Install and launch **NOCH**.
-
-### Web
-
-1. Navigate to the deployed web URL provided by your administrator.
-2. Sign in with your test account credentials.
 
 ---
 
