@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 export default function Home() {
   return (
     <div className="home-simple">
-      <h1>NOCH</h1>
+      <h1>NOCH (Alpha)</h1>
       <p className="home-subtitle">A social dining platform for restaurant discovery, reservations, and community. Currently in alpha.</p>
       <p className="home-subtitle">Our role is to integrate AI features into the app to improve the user experience and access.</p>
 
