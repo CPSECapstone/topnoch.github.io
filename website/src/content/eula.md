@@ -59,3 +59,5 @@ This EULA agreement, and any dispute arising out of or in connection with this E
 If you have any questions about this EULA, please contact us:
 
 - **GitHub Issues:** [https://github.com/CPSECapstone/noch/issues](https://github.com/CPSECapstone/noch/issues)
+
+---

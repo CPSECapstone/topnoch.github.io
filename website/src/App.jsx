@@ -55,10 +55,10 @@ function App() {
           <Route path="/privacy-policy" element={<MarkdownPage 
             title="Privacy Policy" 
             content={privacyContent} 
-              //  next={{
-              // to: "/developer",
-              // label: "Next: Developer Documentation"
-              // }}
+               next={{
+              to: "/",
+              label: "Back: Home"
+              }}
               />} />
           
           <Route path="/developer" element={<MarkdownPage title="Admin Deployment Guide" content={deployContent} />} />  

@@ -127,3 +127,5 @@ If you have any questions about NOCH's privacy policy, the data we hold on you, 
 ## How to Contact the Appropriate Authority
 
 Should you wish to report a complaint or if you feel that NOCH has not addressed your concern in a satisfactory manner, you may contact your local data protection authority. In the EU, you can find your authority at [edpb.europa.eu](https://edpb.europa.eu/about-edpb/about-edpb/members_en).
+
+---
