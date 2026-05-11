@@ -1,57 +1,42 @@
-# NOCH Alpha — Installation & Usage Guide
+## NOCH (Alpha) Installation & Usage Guide
 
-Welcome to NOCH! This guide walks you through installing and getting started with the app.
+Here is how to install the app for beta testing.
 
 ---
 
-## Supported Platforms
+## Platforms
 
 | Platform | Status | Method |
 |----------|--------|--------|
-| Android 10+ | ✅ Recommended | Signed APK |
-| iOS | ✅ Available | TestFlight |
+| Android Native | ✅ Recommended | APK |
+| Android Emulator | ✅ Available | APK |
+| IOS testflight | ❌ Unavailable |  |
 
-## Minimum Requirements
+## Installation: Android Emulator 
 
-- 3 GB RAM or higher
-- Stable internet connection
-- Location enabled for nearby restaurant discovery
+1. If you don't already have it. Download Android Studio for an android emulator. [Android Studio](https://developer.android.com/studio)
+2. Start an instance of the emulator. Follow sub-steps to create an instance to start.
+   - Start android studio.
+   - go to ```More Actions``` -> ```Virtual Device Manager```.
+   - Click the plus near the top left to create a virtual device.
+   - Any android phone should work. I have developed on ```medium phone``` with API 36. 
+   - Go through ```next``` -> ```finish```.
+   - Now click the start button on the device you created.
+3. Go to [HOCH Releases](https://github.com/CPSECapstone/noch/releases) to download the latest build and unzip the file.
+4. To download the APK you can drag and drop the unzipped file into the running device emulator.
+5. In order for the emulator's microphone to work. tap on the three dots (settings) at the bottom side of the emulator. Go to ```Microphone``` and turn on ```Virtual microphone uses host audio input```. 
 
----
+## Installation: Android Native.
 
-## Installation Steps
+1. Download the APK onto the android phone. Either through USB or directly from the github [HOCH Releases](https://github.com/CPSECapstone/noch/releases).
+2. to to ```Settings``` -> ```Security & Privacy``` -> ```More Security Settings``` -> ```Install Unknown Apps``` in order to allow the APK to install.
+3. Within your downloads click on the APK and install it.
 
-### Android (APK)
+## User-Guides: Logging In and Setup
 
-1. Download the latest signed APK from your team release channel or the [GitHub Releases](https://github.com/CPSECapstone/noch/releases) page.
-2. When prompted, allow installation from unknown sources.
-3. Open the downloaded APK and complete the installation.
-4. Launch **NOCH** and verify the build version in Settings.
-
-### iOS (TestFlight) (NOT COMPLETE)
-
-1. Install [TestFlight](https://apps.apple.com/app/testflight/id899247664) from the App Store.
-2. Open the invitation link sent to your email and accept the build.
-3. Install and launch **NOCH**.
-
----
-
-## First-Time Setup
-
-1. **Sign in** with your test account (or create one if self-registration is enabled).
-2. **Grant permissions** when prompted:
-   - **Location** — for map and nearby restaurant features
-   - **Camera & Media** — for posting photos and content
-   - **Notifications** — for social and booking updates
-3. **Complete your profile** — add a display name, bio, and photo.
-
-## Core Features (Alpha)
-
-- 🍽️ **Discover** — Browse restaurants, view menus and details
-- 📅 **Reservations** — Book tables and manage upcoming plans
-- 📸 **Social Feed** — Create posts/reels and interact with the community
-- 💬 **Messaging** — Chat with friends and coordinate dining
-- 👤 **Profile** — Manage your account and preferences
+- To login enter the phone number ```000-000-0000``` and then enter the security code ```000000``` in order to login.
+- To re-experience the onboarding and login flow. Go to the app details and delete app data.
+- To find the app version. Use the build number on the APK that is downloaded and installed.
 
 ## Troubleshooting
 
@@ -62,4 +47,4 @@ Welcome to NOCH! This guide walks you through installing and getting started wit
 | Data appears missing | Check internet connectivity and retry |
 | Permissions issues | Go to device Settings → Apps → NOCH → Permissions |
 
-For unresolved issues, see the [Feedback & Bug Reporting](/feedback) page or email [noch-support@cpsecapstone.org](mailto:noch-support@cpsecapstone.org).
+--- 
