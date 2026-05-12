@@ -4,7 +4,7 @@
 For firsttime users of the app on onboarding page is added to explain the AI features.
 
 <img 
-  src="/Onboarding.png" 
+  src="/topnoch.github.io/Onboarding.png" 
   alt="Onboarding Page" 
   width="450" 
 />
@@ -13,7 +13,7 @@ For firsttime users of the app on onboarding page is added to explain the AI fea
 In a couple of places throughout the app you can find the AI icon that will open up the AI overlay.
 
 <img 
-  src="/AiIcon.png" 
+  src="/topnoch.github.io/AiIcon.png" 
   alt="AI Icon" 
   width="450" 
 />
