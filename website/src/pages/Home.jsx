@@ -17,7 +17,6 @@ export default function Home() {
       <ul>
         <li><Link to="/feedback">Report a Bug or Give Feedback</Link></li>
         <li><a href="https://github.com/CPSECapstone/noch/issues" target="_blank" rel="noopener noreferrer">GitHub Issue Tracker</a></li>
-        <li><a href="mailto:noch-support@cpsecapstone.org">Email: noch-support@cpsecapstone.org</a></li>
       </ul>
 
       <h2>Legal</h2>
