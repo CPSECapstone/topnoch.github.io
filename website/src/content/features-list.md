@@ -24,7 +24,7 @@ The AI overlay is the main point of communication with the AI. This is where you
 - Speech to Text Prompts
 
 <img 
-  src="public/AiOverlay.png" 
+  src="/topnoch.github.io/AiOverlay.png" 
   alt="AI Overlay" 
   width="450" 
 />
@@ -43,7 +43,7 @@ AI Settings can access by the user through the AI overlay and through the user p
 - Listen On Start (working)
 
 <img 
-  src="public/AiSettings.png" 
+  src="/topnoch.github.io/AiSettings.png" 
   alt="AI Settings" 
   width="450" 
 />
