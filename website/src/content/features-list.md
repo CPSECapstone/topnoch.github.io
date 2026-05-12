@@ -4,7 +4,7 @@
 For firsttime users of the app on onboarding page is added to explain the AI features.
 
 <img 
-  src="public/Onboarding.png" 
+  src="src/assets/Onboarding.png" 
   alt="Onboarding Page" 
   width="450" 
 />
