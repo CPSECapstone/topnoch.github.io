@@ -22,13 +22,13 @@ Here is how to install the app for beta testing.
    - Any android phone should work. I have developed on ```medium phone``` with API 36. 
    - Go through ```next``` -> ```finish```.
    - Now click the start button on the device you created.
-3. Go to [HOCH Releases](https://github.com/CPSECapstone/noch/releases) to download the latest build and unzip the file.
+3. Go to [NOCH Releases](https://github.com/CPSECapstone/noch/releases) to download the latest build and unzip the file.
 4. To download the APK you can drag and drop the unzipped file into the running device emulator.
 5. In order for the emulator's microphone to work. tap on the three dots (settings) at the bottom side of the emulator. Go to ```Microphone``` and turn on ```Virtual microphone uses host audio input```. 
 
 ## Installation: Android Native.
 
-1. Download the APK onto the android phone. Either through USB or directly from the github [HOCH Releases](https://github.com/CPSECapstone/noch/releases).
+1. Download the APK onto the android phone. Either through USB or directly from the github [NOCH Releases](https://github.com/CPSECapstone/noch/releases).
 2. to to ```Settings``` -> ```Security & Privacy``` -> ```More Security Settings``` -> ```Install Unknown Apps``` in order to allow the APK to install.
 3. Within your downloads click on the APK and install it.
 
