@@ -5,11 +5,13 @@ We value your feedback! During the alpha phase, your reports help us improve NOC
 
 | Channel | Use For | Link |
 |---------|---------|------|
-| GitHub Issues | Bugs, defects, regressions | [Open an Issue](https://github.com/CPSECapstone/noch/issues) |
+| Jira Bug Report | Bugs, defects, regressions | [Jira Board](https://calpoly-se-capstone.atlassian.net/jira/software/c/projects/TN/boards/263/backlog) |
 
 ---
 
 ## How to Report a Bug
+
+Go to [Jira Board](https://calpoly-se-capstone.atlassian.net/jira/software/c/projects/TN/boards/263/backlog) and then scroll to the bottom of the backlog and click ```+ Create```, fill out the title, and make sure the type is ```Bug```. When created click on it to fill out all necessary information.
 
 When filing a bug report, please include:
 

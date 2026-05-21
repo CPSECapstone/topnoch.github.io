@@ -16,7 +16,7 @@ export default function Home() {
       <h2>Feedback</h2>
       <ul>
         <li><Link to="/feedback">Report a Bug or Give Feedback</Link></li>
-        <li><a href="https://github.com/CPSECapstone/noch/issues" target="_blank" rel="noopener noreferrer">GitHub Issue Tracker</a></li>
+        {/* <li><a href="https://calpoly-se-capstone.atlassian.net/jira/software/c/projects/TN/boards/263/backlog" target="_blank" rel="noopener noreferrer">Jira Board for Bug reports</a></li> */}
       </ul>
 
       <h2>Legal</h2>
