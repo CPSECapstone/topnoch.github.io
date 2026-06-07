@@ -54,10 +54,4 @@ To the maximum extent permitted by applicable law, the Company shall not be liab
 
 This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of California, United States.
 
-## Contact
-
-If you have any questions about this EULA, please contact us:
-
-- **GitHub Issues:** [https://github.com/CPSECapstone/noch/issues](https://github.com/CPSECapstone/noch/issues)
-
 ---

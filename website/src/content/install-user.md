@@ -35,7 +35,7 @@ Here is how to install the app for beta testing.
 ## User-Guides: Logging In and Setup
 
 - To login enter the phone number ```000-000-0000``` and then enter the security code ```000000``` in order to login.
-- To re-experience the onboarding and login flow. Go to the app details and delete app data.
+- To re-experience the onboarding and login flow. Within the phone's settings, go to the app details and delete app data.
 - To find the app version. Use the build number on the APK that is downloaded and installed.
 
 ## Troubleshooting

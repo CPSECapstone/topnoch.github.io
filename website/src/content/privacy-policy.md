@@ -118,12 +118,6 @@ The NOCH website may contain links to other websites. Our privacy policy applies
 
 NOCH keeps its privacy policy under regular review and places any updates on this page. This privacy policy was last updated on **April 15, 2026**.
 
-## How to Contact Us
-
-If you have any questions about NOCH's privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us:
-
-- **GitHub Issues:** [https://github.com/CPSECapstone/noch/issues](https://github.com/CPSECapstone/noch/issues)
-
 ## How to Contact the Appropriate Authority
 
 Should you wish to report a complaint or if you feel that NOCH has not addressed your concern in a satisfactory manner, you may contact your local data protection authority. In the EU, you can find your authority at [edpb.europa.eu](https://edpb.europa.eu/about-edpb/about-edpb/members_en).
